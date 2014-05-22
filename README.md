@@ -1,8 +1,10 @@
 MiniShell - Partie 1
 ==============
-Ce projet est un début de shell tout ce qu’il y a de plus simple. Le Shell c’est beau ! D’ailleurs ne dit-on pas : “beau comme un shell ?”
+Ce projet est un début de shell tout ce qu’il y a de plus simple.
 
-Auteurs : Alexandre Petit (apetit)
+Le Shell c’est beau ! D’ailleurs ne dit-on pas : “beau comme un shell ?”
+
+Auteur : Alexandre Petit (apetit)
 
 Description
 =============
